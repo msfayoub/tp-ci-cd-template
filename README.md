@@ -1,9 +1,5 @@
 # Git & GitHub Lab: TP5 Exercise 5:
 
-Collaborators: 
-Anir ACHIBANE
-Youssef BENTALEB
-Mouad BENSAFIR 
 ## Exercice 5
 ### Task (in teams of 2–3 students): 
 - Fork the template repository provided by the instructor (e.g. tp-ci-cd-template). 
@@ -12,14 +8,3 @@ Mouad BENSAFIR
 - Resolve conflicts if needed. 
 - Clone, push, and pull from multiple machines. 
 
-#### Readme modified again
-modifying readme
-
-#Hiba's modification
-
-### Chahti was here HEHEHEHEHE
-## This is Chaima's Modification hihi
-## Another modif
-
-## this is Alae's modificatioonnn 
-# I updated the README file
