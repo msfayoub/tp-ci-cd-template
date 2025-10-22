@@ -14,5 +14,10 @@
 - Resolve conflicts if needed. 
 - Clone, push, and pull from multiple machines. 
 
-### New Readme section 
-This is a new readme section. 
+#Hiba's modification
+
+## This is Chaima's Modification hihi
+## Another modif
+
+## this is Alae's modificatioonnn 
+# I updated the README file
