@@ -1,1 +1,2 @@
 Testing integration workflow
+Testing java workflow
