@@ -13,6 +13,7 @@
 - Submit a Pull Request for each branch. 
 - Resolve conflicts if needed. 
 - Clone, push, and pull from multiple machines. 
+modifying readme
 
 #Hiba's modification
 
