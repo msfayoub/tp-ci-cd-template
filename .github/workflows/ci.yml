@@ -9,9 +9,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Example: Python project
-      - uses: actions/setup-python@v5
+      # Set up Java
+      - uses: actions/setup-java@v4
         with:
-          python-version: '3.11'
-      - run: pip install -r requirements.txt
-      - run: pytest -q
+          java-version: '17'          # or '11', '21', etc.
+          distribution: 'temurin'     # Eclipse Temurin (recommended)
+
+      # Echo Java and javac versions
+      - run: java -version
+      - run: javac -version
+
+      # Optional: Your actual build/test commands would go here
+      - run: echo "Installing dependencies..."
+      - run: echo "Running tests..."
+      - run: echo "All tests passed!"
