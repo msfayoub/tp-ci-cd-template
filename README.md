@@ -1,5 +1,13 @@
 # Git & GitHub Lab: TP5 Exercise 5:
 
+# Git & GitHub Lab:
+- Understand basic Git concepts. 
+- Create and manage local and remote repositories. 
+- Use essential Git commands. 
+- Collaborate using GitHub (pull, push, branch, merge). 
+- Handle conflicts and create pull requests. 
+- Prepare a project for continuous integration.
+
 ## Exercice 5
 ### Task (in teams of 2–3 students): 
 - Fork the template repository provided by the instructor (e.g. tp-ci-cd-template). 
