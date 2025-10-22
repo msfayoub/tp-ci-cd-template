@@ -14,5 +14,5 @@
 - Resolve conflicts if needed. 
 - Clone, push, and pull from multiple machines. 
 
-### New Readme section 
-This is a new readme section. 
+
+# I updated the README file
