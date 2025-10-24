@@ -14,4 +14,4 @@
 - Resolve conflicts if needed. 
 - Clone, push, and pull from multiple machines. 
 ## This is Chaima's Modification hihi
-## Another modif
+## Anothe
