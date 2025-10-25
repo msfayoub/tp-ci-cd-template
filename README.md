@@ -12,4 +12,6 @@
 - Each member creates a branch to add a small feature (e.g., a section in README a  simple HTML page, or a function). 
 - Submit a Pull Request for each branch. 
 - Resolve conflicts if needed. 
-- Clone, push, and pull from multiple machines. 
+- Clone, push, and pull from multiple machines.
+
+## See? this is my modification !
