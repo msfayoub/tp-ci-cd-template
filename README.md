@@ -3,7 +3,9 @@
 Collaborators: 
 Anir ACHIBANE
 Youssef BENTALEB
-Mouad BENSAFIR 
+Mouad BENSAFIR
+Ahmed QUADIMI
+
 ## Exercice 5
 ### Task (in teams of 2–3 students): 
 - Fork the template repository provided by the instructor (e.g. tp-ci-cd-template). 
@@ -27,3 +29,8 @@ modifying readme
 
 ## Readme modification
 ## Readme modification
+```quote
+"A true developer doesn't just build houses; he builds lives and communities."
+— Lloyd Frontera (The Grestest Estate Developer)
+```
+
