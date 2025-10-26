@@ -13,8 +13,7 @@ Mouad BENSAFIR
 - Clone, push, and pull from multiple machines. 
 
 add-readme-section
-#### Readme modified by tarik
-======
+#### Readme modified by tarik again
 #### Readme modified again
 modifying readme
 
@@ -31,4 +30,3 @@ modifying readme
 
 ## Readme modification
 ## Readme modification
-main
