@@ -18,3 +18,4 @@
 
 ### Basic Clock Application
 In order to accompish these tasks, me, Yassine BOURICH, decided to make a basic clock application to demonstrate the collaboration workflow using Git & GitHub.
+

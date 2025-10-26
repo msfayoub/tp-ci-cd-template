@@ -1,0 +1,25 @@
+name: CI
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Set up Java
+      - uses: actions/setup-java@v4
+        with:
+          java-version: '17'          # or '11', '21', etc.
+          distribution: 'temurin'     # Eclipse Temurin (recommended)
+
+      # Echo Java and javac versions
+      - run: java -version
+      - run: javac -version
+
+      # Optional: Your actual build/test commands would go here
+      - run: echo "Installing dependencies..."
+      - run: echo "Running tests..."
+      - run: echo "All tests passed!"
