@@ -12,6 +12,9 @@ Mouad BENSAFIR
 - Resolve conflicts if needed. 
 - Clone, push, and pull from multiple machines. 
 
+add-readme-section
+#### Readme modified by tarik
+======
 #### Readme modified again
 modifying readme
 
@@ -28,3 +31,4 @@ modifying readme
 
 ## Readme modification
 ## Readme modification
+main
