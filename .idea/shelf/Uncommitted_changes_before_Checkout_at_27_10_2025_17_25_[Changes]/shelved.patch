@@ -1,0 +1,32 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Git & GitHub Lab:\n- Understand basic Git concepts. \n- Create and manage local and remote repositories. \n- Use essential Git commands. \n- Collaborate using GitHub (pull, push, branch, merge). \n- Handle conflicts and create pull requests. \n- Prepare a project for continuous integration.\n\n## Exercice 5\n### Task (in teams of 2–3 students): \n- Fork the template repository provided by the instructor (e.g. tp-ci-cd-template). \n- Each member creates a branch to add a small feature (e.g., a section in README a  simple HTML page, or a function). \n- Submit a Pull Request for each branch. \n- Resolve conflicts if needed. \n- Clone, push, and pull from multiple machines. \n\nAYOUB1
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision ca7f61a61d2b75b393d8dddd9a849da48505ee4c)
++++ b/README.md	(date 1761582100129)
+@@ -1,17 +1,3 @@
+-# Git & GitHub Lab:
+-- Understand basic Git concepts. 
+-- Create and manage local and remote repositories. 
+-- Use essential Git commands. 
+-- Collaborate using GitHub (pull, push, branch, merge). 
+-- Handle conflicts and create pull requests. 
+-- Prepare a project for continuous integration.
+ 
+-## Exercice 5
+-### Task (in teams of 2–3 students): 
+-- Fork the template repository provided by the instructor (e.g. tp-ci-cd-template). 
+-- Each member creates a branch to add a small feature (e.g., a section in README a  simple HTML page, or a function). 
+-- Submit a Pull Request for each branch. 
+-- Resolve conflicts if needed. 
+-- Clone, push, and pull from multiple machines. 
+-
+-AYOUB1
+\ No newline at end of file
++AYOUB1
++WALID 
+\ No newline at end of file
