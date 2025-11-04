@@ -12,11 +12,14 @@ Ahmed QUADIMI
 - Each member creates a branch to add a small feature (e.g., a section in README a  simple HTML page, or a function). 
 - Submit a Pull Request for each branch. 
 - Resolve conflicts if needed. 
+
 - Clone, push, and pull from multiple machines. 
 
+add-readme-section
+#### Readme modified by tarik again
 #### Readme modified again
 modifying readme
-
+look at my changes!! // Mouad
 #Hiba's modification
 
 ## This is Chaima's Modification hihi
@@ -25,6 +28,7 @@ modifying readme
 ## this is Alae's modificatioonnn 
 # I updated the README file
 ## HibaOhd's modification
+### Tarik modification .
 #AH modifications.
 
 ## Readme modification
@@ -33,4 +37,9 @@ modifying readme
 "A true developer doesn't just build houses; he builds lives and communities."
 — Lloyd Frontera (The Grestest Estate Developer)
 ```
+"#Contribution du deuxieme �tudiant" 
+"#Contribution du trosieme �tudiant" 
+"#Contribution du premier �tudiant" 
+
+
 
