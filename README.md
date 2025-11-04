@@ -10,11 +10,14 @@ Mouad BENSAFIR
 - Each member creates a branch to add a small feature (e.g., a section in README a  simple HTML page, or a function). 
 - Submit a Pull Request for each branch. 
 - Resolve conflicts if needed. 
+
 - Clone, push, and pull from multiple machines. 
 
+add-readme-section
+#### Readme modified by tarik again
 #### Readme modified again
 modifying readme
-
+look at my changes!! // Mouad
 #Hiba's modification
 
 ## This is Chaima's Modification hihi
@@ -23,8 +26,13 @@ modifying readme
 ## this is Alae's modificatioonnn 
 # I updated the README file
 ## HibaOhd's modification
+### Tarik modification .
 #AH modifications.
 
 ## Readme modification
 ## Readme modification
-"#Contribution du trosieme ‚tudiant" 
+"#Contribution du trosieme ï¿½tudiant" 
+"#Contribution du premier ï¿½tudiant" 
+
+
+
