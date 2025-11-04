@@ -1,5 +1,12 @@
 # Git & GitHub Lab: TP5 Exercise 5:
 
+# Git & GitHub Lab:
+- Understand basic Git concepts. 
+- Create and manage local and remote repositories. 
+- Use essential Git commands. 
+- Collaborate using GitHub (pull, push, branch, merge). 
+- Handle conflicts and create pull requests. 
+- Prepare a project for continuous integration.
 Collaborators: 
 Anir ACHIBANE
 Youssef BENTALEB
@@ -15,6 +22,14 @@ Ahmed QUADIMI
 
 - Clone, push, and pull from multiple machines. 
 
+### Basic Clock Application
+In order to accompish these tasks, me, Yassine BOURICH, decided to make a basic clock application to demonstrate the collaboration workflow using Git & GitHub.
+
+### Group members
+- Yassine BOURICH
+- Ayoub EL-Azzouzi
+- Moad CHAHTI
+- Soufiane AIT LHADJ
 add-readme-section
 #### Readme modified by tarik again
 #### Readme modified again
